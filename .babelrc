@@ -1,0 +1,8 @@
+{
+    "presets": [
+        //es6-9      
+        "babel-preset-env",
+        //JSX
+        "react"
+    ]
+}
